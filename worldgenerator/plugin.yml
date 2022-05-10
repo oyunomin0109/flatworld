@@ -1,0 +1,6 @@
+name: worldgenerator
+main: oyunomin\worldgenerator\Loader 
+version: 1.0.0 
+api: 4.0.0 
+load: POSTWORLD 
+author: oyunomin 
